@@ -1,0 +1,9 @@
+{
+	"name": "step2cadf6",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c284dbeb-badd-496b-906e-c9e7e5ae2f21",
+		"tenantId": "2f328998-bd0e-4c29-9811-f913e7b987fa"
+	}
+}
