@@ -1,0 +1,9 @@
+{
+	"name": "project101-dev",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11fa0a2e-1df0-410b-b5e1-1a4fad7c7f51",
+		"tenantId": "2f328998-bd0e-4c29-9811-f913e7b987fa"
+	}
+}
